@@ -1,2 +1,3 @@
 # KOSPI_Prediction
-Using Pytorch-LSTM
+
+## 1. 사용 라이브러리
