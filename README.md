@@ -31,10 +31,16 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 ## 3. 알고리즘 순서도
 ![Ai_project drawio](https://user-images.githubusercontent.com/86700191/148198941-9b3c62b3-a458-4e7e-ad0b-1e08f90de779.png)
 
-## 4. 참고자료
+## 4. 유의점
+- 은닉층(Hidden Layer)의 개수
+<img src=https://user-images.githubusercontent.com/86700191/148204719-727b258e-2765-4b22-a345-4b81794b5f46.png width="400" height="400"> <img src=https://user-images.githubusercontent.com/86700191/148204722-4136b056-7547-4ac1-90a5-4029798674ff.png width="400" height="400">
+ 왼쪽은 1-Layer, 오른쪽은 2-Layer의 은닉 층으로 이루어진 예측값들이다. 1-Layer와 달리 2-Layer는 갑작스러운 상승, 하락퐁에 대해서 비교적 예측을 못하는 모델이 나온다. 은닉층(Hidden Layer)의 개수에 대한 정확성 비교는 아래 참고 사이트 방문.
+
+-은닉층 노드의 개수
+<img src=https://user-images.githubusercontent.com/86700191/148206347-d035f67b-de86-4fcc-abc0-e5df99231559.PNG width="266" height="266"> <img src=https://user-images.githubusercontent.com/86700191/148206352-f1504f1e-69a2-48e9-80ff-5a7bbd769a4b.PNG width="266" height="266"> <img src=https://user-images.githubusercontent.com/86700191/148206355-3b73d821-805c-4a2c-84d4-2f1ba04f6eaa.PNG width="266" height="266">
+ 
+ ## 5. 참고자료(사이트)
 - [PyTorch 공식 설명](https://pytorch.org/docs/stable/index.html)
 - [RNN & LSTM 설명과 Base 코드](https://cnvrg.io/pytorch-lstm/?gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxsIXn6G6EcMLhGnPDxnsKiv3zLU49TRMxsyTPXZmOV3E-Hh4xeI2EaAugLEALw_wcB)
 - [LSTM 은닉층 개수에 따른 모델의 정확성 비교](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
-
-## 5. 유의점
-<img src=https://user-images.githubusercontent.com/86700191/148204719-727b258e-2765-4b22-a345-4b81794b5f46.png width="400" height="400"> <img src=https://user-images.githubusercontent.com/86700191/148204722-4136b056-7547-4ac1-90a5-4029798674ff.png width="400" height="400">
+- [LSTM 은닉노드 개수에 따른 모델의 정확성 비교](https://forensics.tistory.com/22)
