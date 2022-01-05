@@ -1,6 +1,8 @@
 # KOSPI_Prediction
 LSTM으로 KOSPI 상위 100개 기업에 대한 주가를 학습하여 만든 모델에 대한 테스트 데이터를 통해 예측한 값과 실제 주가를 비교하여 어느정도의 성능을 가지는지 확인한다.
 
+https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-b9c4-b4502c6b55d1.mp4
+
 ## 1. 사용 라이브러리
 - PyTorch
 - Pandas
@@ -28,3 +30,5 @@ LSTM으로 KOSPI 상위 100개 기업에 대한 주가를 학습하여 만든 �
     
 ## 3. 알고리즘 순서도
 ![Ai_project drawio](https://user-images.githubusercontent.com/86700191/148198941-9b3c62b3-a458-4e7e-ad0b-1e08f90de779.png)
+
+## 4. 참고자료
