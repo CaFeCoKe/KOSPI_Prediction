@@ -1,5 +1,5 @@
 # KOSPI_Prediction
-LSTM으로 KOSPI 상위 100개 기업에 대한 주가를 학습하여 만든 모델에 대한 테스트 데이터를 통해 예측한 값과 실제 주가를 비교하여 어느정도의 성능을 가지는지 확인한다.
+LSTM으로 KOSPI 상위 100개 기업에 대한 주가를 학습하여 만든 모델에 대한 테스트 데이터를 통해 해당 기업에 대해 예측한 주가와 실제 주가를 비교하여 LSTM이 어느정도의 성능을 가지는지 확인한다.
 
 https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-b9c4-b4502c6b55d1.mp4
 
@@ -35,3 +35,7 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 - [PyTorch 공식 설명](https://pytorch.org/docs/stable/index.html)
 - [RNN & LSTM 설명과 Base 코드](https://cnvrg.io/pytorch-lstm/?gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxsIXn6G6EcMLhGnPDxnsKiv3zLU49TRMxsyTPXZmOV3E-Hh4xeI2EaAugLEALw_wcB)
 - [LSTM 은닉층 개수에 따른 모델의 정확성 비교](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
+
+## 5. 유의점
+![1layer_LSTM](https://user-images.githubusercontent.com/86700191/148204719-727b258e-2765-4b22-a345-4b81794b5f46.png)
+![2layer_LSTM](https://user-images.githubusercontent.com/86700191/148204722-4136b056-7547-4ac1-90a5-4029798674ff.png)
