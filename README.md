@@ -26,3 +26,5 @@ LSTM으로 KOSPI 상위 100개 기업에 대한 주가를 학습하여 만든 �
  4) 종료 확인
 	- 창 닫기 버튼(X버튼)을 누르면 종료의사 여부를 물어보는 창이 나오며, 종료하게되면 프로세스가 종료되고, tkinter 창이 닫히게 된다.
     
+## 3. 알고리즘 순서도
+![Ai_project drawio](https://user-images.githubusercontent.com/86700191/148198941-9b3c62b3-a458-4e7e-ad0b-1e08f90de779.png)
