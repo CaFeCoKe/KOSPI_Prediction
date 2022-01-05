@@ -32,3 +32,6 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 ![Ai_project drawio](https://user-images.githubusercontent.com/86700191/148198941-9b3c62b3-a458-4e7e-ad0b-1e08f90de779.png)
 
 ## 4. 참고자료
+- [PyTorch 공식 설명](https://pytorch.org/docs/stable/index.html)
+- [RNN & LSTM 설명과 Base 코드](https://cnvrg.io/pytorch-lstm/?gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxsIXn6G6EcMLhGnPDxnsKiv3zLU49TRMxsyTPXZmOV3E-Hh4xeI2EaAugLEALw_wcB)
+- [LSTM 은닉층 개수에 따른 모델의 정확성 비교](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
