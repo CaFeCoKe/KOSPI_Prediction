@@ -37,5 +37,4 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 - [LSTM 은닉층 개수에 따른 모델의 정확성 비교](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
 
 ## 5. 유의점
-<img src=https://user-images.githubusercontent.com/86700191/148204719-727b258e-2765-4b22-a345-4b81794b5f46.png width="200" height="200">
-<img src=https://user-images.githubusercontent.com/86700191/148204722-4136b056-7547-4ac1-90a5-4029798674ff.png width="200" height="200">
+<img src=https://user-images.githubusercontent.com/86700191/148204719-727b258e-2765-4b22-a345-4b81794b5f46.png width="400" height="400"> <img src=https://user-images.githubusercontent.com/86700191/148204722-4136b056-7547-4ac1-90a5-4029798674ff.png width="400" height="400">
