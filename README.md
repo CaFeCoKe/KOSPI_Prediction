@@ -32,12 +32,10 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 ![Ai_project drawio](https://user-images.githubusercontent.com/86700191/148198941-9b3c62b3-a458-4e7e-ad0b-1e08f90de779.png)
 
 ## 4. 유의점
-- 은닉층(Hidden Layer)의 개수
-<img src=https://user-images.githubusercontent.com/86700191/148204719-727b258e-2765-4b22-a345-4b81794b5f46.png width="400" height="400"> <img src=https://user-images.githubusercontent.com/86700191/148204722-4136b056-7547-4ac1-90a5-4029798674ff.png width="400" height="400">
- 왼쪽은 1-Layer, 오른쪽은 2-Layer의 은닉 층으로 이루어진 예측값들이다. 1-Layer와 달리 2-Layer는 갑작스러운 상승, 하락퐁에 대해서 비교적 예측을 못하는 모델이 나온다. 은닉층(Hidden Layer)의 개수에 대한 정확성 비교는 아래 참고 사이트 방문.
-
--은닉층 노드의 개수
-<img src=https://user-images.githubusercontent.com/86700191/148206347-d035f67b-de86-4fcc-abc0-e5df99231559.PNG width="266" height="266"> <img src=https://user-images.githubusercontent.com/86700191/148206352-f1504f1e-69a2-48e9-80ff-5a7bbd769a4b.PNG width="266" height="266"> <img src=https://user-images.githubusercontent.com/86700191/148206355-3b73d821-805c-4a2c-84d4-2f1ba04f6eaa.PNG width="266" height="266">
+- matplotlib 한글 폰트는 따로 지원을 하지 않으므로 폰트를 가져와 코드를 작성해야한다.
+- KOSPI의 주식코드를 Firebase를 통해 수신하므로 Firebase Admin SDK를 만들어 코드에 작성하여야 한다. 그리고 Firestore       Database 내에 주식코드를 저장 시켜야 정상적으로 실행이 가능하다. 
+  예시
+  ![capture](https://user-images.githubusercontent.com/86700191/148207599-f6410e99-0504-429c-9429-442a203bfc66.PNG)
  
  ## 5. 참고자료(사이트)
 - [PyTorch 공식 설명](https://pytorch.org/docs/stable/index.html)
