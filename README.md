@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 
 ## 4. 유의점
 - matplotlib 한글 폰트는 따로 지원을 하지 않으므로 폰트를 가져와 코드를 작성해야한다.
-- KOSPI의 주식코드를 Firebase를 통해 수신하므로 Firebase Admin SDK를 만들어 코드에 작성하여야 한다. 그리고 Firestore       Database 내에 주식코드를 저장 시켜야 정상적으로 실행이 가능하다. 
+- KOSPI의 주식 종목코드를 Firebase를 통해 수신하므로 Firebase Admin SDK를 만들어 코드에 작성하여야 한다. 그리고 Firestore Database 내에 주식 종목코드를 저장시켜야 정상적으로 실행이 가능하다. 
   
   예시
   ![capture](https://user-images.githubusercontent.com/86700191/148207599-f6410e99-0504-429c-9429-442a203bfc66.PNG)
