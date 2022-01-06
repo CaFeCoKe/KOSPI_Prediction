@@ -4,12 +4,12 @@ LSTM으로 KOSPI 상위 100개 기업에 대한 주가를 학습하여 만든 �
 https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-b9c4-b4502c6b55d1.mp4
 
 ## 1. 사용 라이브러리
-- PyTorch
-- Pandas
-- scikit-learn
-- matplotlib
-- tkinter
-- firebase_admin
+- PyTorch : LSTM Network 구성
+- Pandas : 주식데이터 수신, 데이터프레임 활용
+- scikit-learn : 데이터 전처리
+- tkinter : 전체 UI
+- matplotlib : 주식데이터 차트구현
+- firebase_admin : firebase에서 주식 종목코드 수신
 
 ## 2. 프로그램 기능
  1) 초기화면
