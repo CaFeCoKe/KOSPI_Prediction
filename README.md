@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 ![Ai_project drawio](https://user-images.githubusercontent.com/86700191/148198941-9b3c62b3-a458-4e7e-ad0b-1e08f90de779.png)
 
 ## 4. 네트워크 구성도
-![Stock_lstm drawio](https://user-images.githubusercontent.com/86700191/151542527-f822bb9d-b29a-4c63-ad17-d2581f41a769.png)
+![Stock_lstm drawio](https://user-images.githubusercontent.com/86700191/151542865-0d40042c-f0a0-4c35-baff-68a9b366a24a.png)
 
 ## 5. 유의점
 - Pandas가 있거나 install했음에도 pandas_datareader가 없다는 에러가 뜬다면 pandas_datareader를 install 해야한다.
