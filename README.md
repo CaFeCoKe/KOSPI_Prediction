@@ -31,7 +31,10 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
 ## 3. 알고리즘 순서도
 ![Ai_project drawio](https://user-images.githubusercontent.com/86700191/148198941-9b3c62b3-a458-4e7e-ad0b-1e08f90de779.png)
 
-## 4. 유의점
+## 4. 네트워크 구성도
+![Stock_lstm drawio](https://user-images.githubusercontent.com/86700191/151542527-f822bb9d-b29a-4c63-ad17-d2581f41a769.png)
+
+## 5. 유의점
 - Pandas가 있거나 install했음에도 pandas_datareader가 없다는 에러가 뜬다면 pandas_datareader를 install 해야한다.
     (pip install pandas-datareader)
 - matplotlib 한글 폰트는 따로 지원을 하지 않으므로 폰트를 가져와 코드를 작성해야한다.
@@ -40,7 +43,7 @@ https://user-images.githubusercontent.com/86700191/148202120-496648ae-1055-44fc-
   예시
   ![capture](https://user-images.githubusercontent.com/86700191/148207599-f6410e99-0504-429c-9429-442a203bfc66.PNG)
  
- ## 5. 참고자료(사이트)
+ ## 6. 참고자료(사이트)
 - [PyTorch 공식 설명](https://pytorch.org/docs/stable/index.html)
 - [RNN & LSTM 설명과 Base 코드](https://cnvrg.io/pytorch-lstm/?gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxsIXn6G6EcMLhGnPDxnsKiv3zLU49TRMxsyTPXZmOV3E-Hh4xeI2EaAugLEALw_wcB)
 - [LSTM 은닉층 개수에 따른 모델의 정확성 비교](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
